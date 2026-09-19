@@ -130,8 +130,7 @@ Small repos where I practice patterns and try new ideas:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.hackclub.dev/api?username=AmitKumar008&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" />
-<img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=AmitKumar008&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmitKumar008&theme=tokyonight" />
 
 <br/><br/>
 
