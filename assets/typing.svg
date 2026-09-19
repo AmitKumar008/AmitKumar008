@@ -4,20 +4,23 @@
     .a { fill: #0ea5e9; }
   </style>
   <g text-anchor="middle">
-    <text class="t" x="380" y="28" opacity="0">React Native Developer  |  4.5+ years
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.17;0.2" dur="15s" begin="0s" repeatCount="indefinite"/>
+    <text class="t" x="380" y="28" opacity="0">React Native Developer  |  4.6+ years
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.025;0.14;0.166" dur="18s" begin="0s" repeatCount="indefinite"/>
     </text>
-    <text class="t" x="380" y="28" opacity="0">React Native &#8226; TypeScript &#8226; Redux Toolkit
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.17;0.2" dur="15s" begin="3s" repeatCount="indefinite"/>
+    <text class="t" x="380" y="28" opacity="0">React Native &#8226; TypeScript &#8226; Expo &#8226; Swift
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.025;0.14;0.166" dur="18s" begin="3s" repeatCount="indefinite"/>
     </text>
-    <text class="t" x="380" y="28" opacity="0">12+ cross-platform apps in production
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.17;0.2" dur="15s" begin="6s" repeatCount="indefinite"/>
+    <text class="t" x="380" y="28" opacity="0">12+ apps live on App Store &amp; Play Store
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.025;0.14;0.166" dur="18s" begin="6s" repeatCount="indefinite"/>
     </text>
-    <text class="t" x="380" y="28" opacity="0">25% faster loads &#8226; 30% fewer crashes
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.17;0.2" dur="15s" begin="9s" repeatCount="indefinite"/>
+    <text class="t" x="380" y="28" opacity="0">Node.js &#8226; Express &#8226; MongoDB backend
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.025;0.14;0.166" dur="18s" begin="9s" repeatCount="indefinite"/>
+    </text>
+    <text class="t" x="380" y="28" opacity="0">AI voice &amp; chat on the OpenAI API
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.025;0.14;0.166" dur="18s" begin="12s" repeatCount="indefinite"/>
     </text>
     <text class="t a" x="380" y="28" opacity="0">Open for freelance &amp; contract work!
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.17;0.2" dur="15s" begin="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.025;0.14;0.166" dur="18s" begin="15s" repeatCount="indefinite"/>
     </text>
   </g>
 </svg>
