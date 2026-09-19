@@ -42,15 +42,12 @@
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">
     <text x="500" y="92" font-size="46" font-weight="700" fill="#ffffff" letter-spacing="1">
       Amit Kumar
-      <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
     </text>
     <text x="500" y="128" font-size="19" font-weight="600" fill="#a5f3fc" letter-spacing="3">
       REACT NATIVE DEVELOPER
-      <animate attributeName="opacity" values="0;1" dur="1.6s" begin="0.4s" fill="freeze"/>
     </text>
     <text x="500" y="156" font-size="15" fill="#e2e8f0" letter-spacing="1">
       12+ apps shipped  •  iOS &amp; Android  •  4.5+ years
-      <animate attributeName="opacity" values="0;1" dur="1.8s" begin="0.8s" fill="freeze"/>
     </text>
   </g>
 </svg>
