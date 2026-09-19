@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="1000" height="220" role="img" aria-label="Amit Kumar - React Native Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="50%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+      <animate attributeName="x1" values="0;0.6;0" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;0.4;1" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="220" fill="url(#bg)"/>
+
+  <g opacity="0.35">
+    <circle cx="120" cy="60" r="3" fill="#a5f3fc">
+      <animate attributeName="cy" values="60;40;60" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="880" cy="70" r="4" fill="#bfdbfe">
+      <animate attributeName="cy" values="70;95;70" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="760" cy="40" r="2.5" fill="#67e8f9">
+      <animate attributeName="cy" values="40;60;40" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="230" cy="170" r="3" fill="#93c5fd">
+      <animate attributeName="cy" values="170;150;170" dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g>
+    <path fill="url(#wave)" d="M0,160 C150,120 300,200 500,160 C700,120 850,200 1000,160 L1000,220 L0,220 Z">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -40,6; 0,0; 40,-6; 0,0" dur="10s" repeatCount="indefinite"/>
+    </path>
+    <path fill="#0ea5e9" fill-opacity="0.35" d="M0,180 C180,150 320,210 520,178 C720,146 860,206 1000,180 L1000,220 L0,220 Z">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 45,-5; 0,0; -45,5; 0,0" dur="13s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="500" y="92" font-size="46" font-weight="700" fill="#ffffff" letter-spacing="1">
+      Amit Kumar
+      <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+    </text>
+    <text x="500" y="128" font-size="19" font-weight="600" fill="#a5f3fc" letter-spacing="3">
+      REACT NATIVE DEVELOPER
+      <animate attributeName="opacity" values="0;1" dur="1.6s" begin="0.4s" fill="freeze"/>
+    </text>
+    <text x="500" y="156" font-size="15" fill="#e2e8f0" letter-spacing="1">
+      12+ apps shipped  •  iOS &amp; Android  •  4.5+ years
+      <animate attributeName="opacity" values="0;1" dur="1.8s" begin="0.8s" fill="freeze"/>
+    </text>
+  </g>
+</svg>
