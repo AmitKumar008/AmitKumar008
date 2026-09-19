@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ⚡ ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:06b6d4&height=200&section=header&text=Hi%20👋%20I'm%20Amit%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=React%20Native%20Developer%20•%2012%2B%20Apps%20Shipped%20•%20iOS%20%26%20Android&descSize=18&descAlignY=55&stroke=00000000" width="100%" />
+<img src="assets/header.svg" width="100%" alt="Amit Kumar - React Native Developer" />
 
 <!-- ⌨️ TYPING ANIMATION -->
 <a href="https://github.com/AmitKumar008">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&repeat=true&weight=600&size=24&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=700&lines=📱+React+Native+Developer+%7C+4.5%2B+Years;⚛️+React+Native+%E2%80%A2+TypeScript+%E2%80%A2+Redux+Toolkit;🚀+12%2B+Cross-Platform+Apps+in+Production;⚡+25%25+Faster+Loads+%E2%80%A2+30%25+Fewer+Crashes;🤝+Open+for+Freelance+%26+Contract+Work!" alt="React Native Developer" />
+  <img src="assets/typing.svg" alt="React Native Developer highlights" />
 </a>
 
 <br/>
@@ -165,6 +165,6 @@ Small repos where I practice patterns and try new ideas:
 
 ⭐️ *If any of my repos help you, a star makes my day!* ⭐️
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:1e3a8a&height=120&section=footer&stroke=00000000" width="100%" />
+<img src="assets/header.svg" width="100%" alt="" />
 
 </div>
