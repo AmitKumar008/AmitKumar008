@@ -75,23 +75,27 @@ const amit = {
 
 ---
 
-## 🔒 Client Work (Private Repositories)
+## 🔒 Client & Private Work
 
-> Most of my production work lives in **private client repos**, so it can't be pinned here.
-> Here's what I actually built 👇
+> Most of my work lives in **private repos**, so it cannot be pinned here — this is what is inside them 👇
 
-| 🚀 Project | What it does | Stack & Highlights |
+| 🚀 Project | What it does | Stack & highlights |
 |---|---|---|
-| **The Dog Walking Fields** 🐕 | UK marketplace for booking private dog-walking fields by the hour | React Native • Stripe payments • Google Maps • slot-based booking, coupons & gift cards |
-| **Kaibo** 🌱 | Wellness & community app — feed, groups, guided content | React Native • REST APIs • real-time community feed, media uploads |
-| **Xpede — Driver & User Apps** 🚚 | Two-sided logistics platform for on-demand deliveries | React Native • background location tracking • live order lifecycle, push notifications |
-| **Care Exchange** 🤝 | Caregiving marketplace matching families with verified carers | React Native • chat • profile verification, availability calendar, in-app booking |
-| **KinenGo** 🌀 | "Super app" bundling multiple services under one shell | React Native • modular architecture • deep linking, multi-module navigation |
-| **LeadPhysician** 🩺 | E-learning platform for medical professionals | React Native • video playback • course progress, offline-first content |
-| **Sport Baze** 🏟️ | Sports venue & activity booking experience | React Native • Redux Toolkit • search, filters, booking flow |
-| **Kiero** 📦 | On-demand service booking app | React Native • Firebase • auth, notifications, live status |
-| **PopFIIT · Routinely Pro** 💪 | Fitness & habit-tracking apps | React Native • charts, streaks, health data, reminders |
-| **PlasmaPen · Kikos · Brand NUE · SCWMS** 🧩 | E-commerce, beauty-tech and warehouse-management builds | React Native • payments, catalogs, barcode scanning, role-based dashboards |
+| **Kaibo Community** 🌱 | Wellness & community platform — feed, groups, guided content | React Native + TypeScript • REST APIs • real-time feed, media uploads |
+| **The Dog Walking Fields** 🐕 | UK marketplace for booking private dog-walking fields by the hour | React Native • Stripe payments • Google Maps • slot booking, coupons & gift cards |
+| **Care Exchange** 🤝 | Healthcare & caregiving support marketplace (phase 1 + 2) | React Native • chat • profile verification, availability calendar, in-app booking |
+| **Kiero** 📦 | E-commerce app — catalog, cart and checkout | React Native + TypeScript • Firebase • auth, notifications, live order status |
+| **SportsBaze** 🏟️ | Fan & player app with live role switching | React Native • Redux Toolkit • role-based UI, search & booking flow |
+| **SpeakNova AI** 🎙️ | English speaking-practice app powered by AI | React Native • speech input • AI feedback loops, progress tracking |
+| **Meta-X** 💪 | Fitness, health & diet plans for every health category | React Native • charts, streaks, plan builder, reminders |
+| **MarketAggregator** 🛒 | Browse featured services, pick vendor types and chat with providers | React Native • in-app chat • vendor discovery, filters |
+| **Xpede Driver & User apps** 🚚 | Two-sided logistics platform for on-demand deliveries | React Native • background location • live order lifecycle, push notifications |
+| **Remindably · Tasknudger · TrackAll** ⏰ | Reminder, nudge and tracking apps | React Native + TypeScript • local notifications, offline-first storage |
+| **AmitFarmers** 🌾 | Store for mustard oil & ghee, with its own Node/Express backend | React Native • Node.js + Express • REST APIs, orders & payments |
+| **SCWMS v2** 🏢 | Warehouse / stock control management system | JavaScript • role-based dashboards, barcode scanning |
+| **CodeCraft AI** 🤖 | Personal AI assistant bot | TypeScript • LLM APIs, streaming responses |
+| **LittlePlanetMakers · MemoryMatch · Color Sort 2D** 🎮 | Games built for kids — puzzle, memory and color-sorting | Unity/C# • Kotlin • HTML5 Canvas |
+| **PopFIIT · LeadPhysician · PlasmaPen** 🩺 | Fitness, medical e-learning and beauty-tech client builds | React Native • video playback, course progress, catalogs |
 
 **📈 Impact across these builds**
 
@@ -105,7 +109,6 @@ const amit = {
 | 📦 Apps shipped | **12+ live on iOS & Android** |
 
 </div>
-
 ---
 
 ## 🧪 Public Playground
