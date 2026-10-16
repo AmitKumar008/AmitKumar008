@@ -22,9 +22,9 @@
 ```javascript
 const amit = {
   role: "React Native Developer @ Nile Technologies Pvt. Ltd., Noida",
-  experience: "4.6+ years",
+  experience: "4.7+ years",
   shipped: "12+ cross-platform apps live on the App Store & Google Play",
-  domains: ["Healthcare", "Logistics", "Fitness", "E-commerce", "E-learning", "On-demand Booking"],
+  domains: ["Healthcare", "Logistics", "Fitness", "E-commerce", "E-learning", "On-demand Booking", "Field Service", "Food Delivery"],
   mobile: ["React Native (Bare + Expo)", "TypeScript", "Redux Toolkit", "Zustand", "Reanimated"],
   native: ["Swift", "SwiftUI", "Native modules & bridging", "TestFlight", "Play Console"],
   backend: ["Node.js", "Express.js", "MongoDB (Mongoose)", "JWT auth", "REST APIs"],
@@ -134,6 +134,32 @@ Built and shipped **solo**: an AI spoken-English coach for Hindi-first Indian le
 
 ---
 
+### 🛠️ iCrewO — Field Service Management App `In development`
+
+Mobile app for field-service teams (HVAC, plumbing, electrical, cleaning) on a multi-tenant SaaS platform — one binary with **role-aware navigation** for Owners/Admins and Crew.
+
+- Crews track jobs, capture photos, log time, chat with the team and pull up customer history — **even offline**
+- Offline-ready data layer: **TanStack Query** with a persisted cache, **Zustand** for app state
+- **Face ID / Touch ID** sign-in on top of JWT auth, tokens in SecureStore, **FCM** push notifications
+- React Hook Form + Zod forms, **NativeWind** styling, i18next localisation, **Expo EAS Build**
+
+`React Native` `Expo` `TypeScript` `TanStack Query` `Zustand` `NativeWind` `Firebase`
+
+---
+
+### 🍲 Savora — Food Delivery: Customer, Restaurant & Rider Apps `In development`
+
+Food delivery from local kitchens in Pilani — two React Native apps running on one live REST API.
+
+- **Customer & Restaurant app**: guests browse, customers order and pay with **Cashfree**, restaurant partners accept orders; people who are both switch sides without signing in again
+- **Rider app**: apply and get approved in-app, go online, take orders from a nearby open pool, hand over with a **pickup code** and **delivery OTP**, track earnings and cash out to bank / UPI
+- Phone **OTP sign-in** with tokens in the Keychain, live rider location while online, **Google Maps** directions, FCM + Notifee push, light / dark themes
+- MVVM feature modules on **Redux Toolkit + Redux-Saga**, MMKV persistence, FlashList, Zod-validated forms
+
+`React Native` `TypeScript` `Redux Toolkit` `Redux-Saga` `MMKV` `Google Maps API` `Cashfree` `Firebase`
+
+---
+
 ### 🐕 The Dog Walking Fields — Secure Field Booking Platform (UK)
 
 Cross-platform app for reserving private, secure dog-walking fields across the UK.
@@ -206,6 +232,7 @@ Self-paced leadership program for physicians: modular video lessons with progres
 | **AmitFarmers** 🌾 | Mustard oil & ghee store with its own backend | React Native • Node.js + Express • orders & payments |
 | **SCWMS v2** 🏢 | Stock control & warehouse management | JavaScript • role-based dashboards, barcode scanning |
 | **CodeCraft AI** 🤖 | Personal AI assistant bot | TypeScript • LLM APIs, streaming responses |
+| **Magic Color Studio** 🎨 | Kids' colouring & drawing game — 440 pictures in 12 themes, 860 levels, no ads, works offline | Kotlin • native Android |
 | **Games for kids** 🎮 | LittlePlanetMakers · MemoryMatch · Color Sort 2D | Unity/C# • Kotlin • HTML5 Canvas |
 
 **📈 Impact across these builds**
