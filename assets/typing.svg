@@ -4,7 +4,7 @@
     .a { fill: #0ea5e9; }
   </style>
   <g text-anchor="middle">
-    <text class="t" x="380" y="28" opacity="0">React Native Developer  |  4.6+ years
+    <text class="t" x="380" y="28" opacity="0">React Native Developer  |  4.7+ years
       <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.025;0.14;0.166" dur="18s" begin="0s" repeatCount="indefinite"/>
     </text>
     <text class="t" x="380" y="28" opacity="0">React Native &#8226; TypeScript &#8226; Expo &#8226; Swift
