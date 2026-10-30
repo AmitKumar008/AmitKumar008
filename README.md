@@ -134,7 +134,7 @@ Built and shipped **solo**: an AI spoken-English coach for Hindi-first Indian le
 
 ---
 
-### 🛠️ iCrewO — Field Service Management App `In development`
+### 🛠️ iCrewO — Field Service Management App `Live on App Store & Google Play`
 
 Mobile app for field-service teams (HVAC, plumbing, electrical, cleaning) on a multi-tenant SaaS platform — one binary with **role-aware navigation** for Owners/Admins and Crew.
 
@@ -147,7 +147,7 @@ Mobile app for field-service teams (HVAC, plumbing, electrical, cleaning) on a m
 
 ---
 
-### 🍲 Savora — Food Delivery: Customer, Restaurant & Rider Apps `In development`
+### 🍲 Bhooksy — Food Delivery: Customer, Restaurant & Rider Apps `Live on Google Play`
 
 Food delivery from local kitchens in Pilani — two React Native apps running on one live REST API.
 
