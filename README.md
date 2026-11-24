@@ -22,7 +22,7 @@
 ```javascript
 const amit = {
   role: "React Native Developer @ Nile Technologies Pvt. Ltd., Noida",
-  experience: "4.7+ years",
+  experience: "4.8+ years",
   shipped: "12+ cross-platform apps live on the App Store & Google Play",
   domains: ["Healthcare", "Logistics", "Fitness", "E-commerce", "E-learning", "On-demand Booking", "Field Service", "Food Delivery"],
   mobile: ["React Native (Bare + Expo)", "TypeScript", "Redux Toolkit", "Zustand", "Reanimated"],
@@ -144,6 +144,19 @@ Mobile app for field-service teams (HVAC, plumbing, electrical, cleaning) on a m
 - React Hook Form + Zod forms, **NativeWind** styling, i18next localisation, **Expo EAS Build**
 
 `React Native` `Expo` `TypeScript` `TanStack Query` `Zustand` `NativeWind` `Firebase`
+
+---
+
+### 🛒 LayBys — Lay-By Marketplace (Australia) `Live on App Store & Google Play`
+
+An Australian lay-by marketplace where shoppers reserve items with a deposit and pay them off **interest-free** — I built core screens of the iOS & Android app.
+
+- Product search, per-item **lay-by cart**, **PayPal** deposit checkout and **Google Places** address autocomplete
+- **My Lay-Bys** dashboard with instalment payments and cancellations
+- App Store-compliant **in-app account deletion** via backend API (blocked while lay-bys are active)
+- Migrated iOS to the **UIScene lifecycle** with a Swift SceneDelegate for deep linking, **FCM** push, App Store review & Play Console releases
+
+`React Native` `TypeScript` `Firebase` `PayPal` `Google Places API` `Swift`
 
 ---
 
